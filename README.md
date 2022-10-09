@@ -1,6 +1,7 @@
 # Hacktoberfest 2022
 
-## Make Your First Contribution <br> <br> ![alt text](https://res.cloudinary.com/practicaldev/image/fetch/s--ds97LCK---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ymlmr15l83rrjq8natft.jpg)
+## Make Your First Open Source Contribution <br> <br> ![alt text](https://res.cloudinary.com/practicaldev/image/fetch/s--ds97LCK---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ymlmr15l83rrjq8natft.jpg)
+<br><br> 
 
 ### Feel free to use this project to make your first contribution to an open-source project on GitHub. <br><br> This repository is open to all members of the GitHub community. Any member can contribute to this project!
 
@@ -16,7 +17,7 @@
 
 - Writing the author's name and the date modified is a must.
 
-![alt text](https://user-images.githubusercontent.com/90573878/193465305-98a84b35-9c1a-4a27-8218-02e4017a2b21.png)
+![alt text](https://raw.githubusercontent.com/Kingjo1287/Data-Structures-and-Algorithm/main/Example.png)
 
 - Filename should be proper. If there are more than 2 words than the first letter of each word must be capital. Example: `1_TwoSum.cpp`
 
