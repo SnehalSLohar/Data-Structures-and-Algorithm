@@ -30,5 +30,3 @@ for i in range(len(arr)):
 	lst.append(arr[i])	 #appending the elements in sorted order
 print(lst)
 
-
-# This code is contributed by Mohit Kumra
